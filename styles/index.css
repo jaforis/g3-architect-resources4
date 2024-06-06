@@ -1,0 +1,36 @@
+header{
+background-color:rgba(255, 144, 14, 0.10);
+padding: 50px 240px;
+}
+nav{
+display: flex;
+justify-content: space-between;
+text-align: center;
+align-items: center;
+}
+div > ul{
+display: flex;
+}
+div li{
+list-style: none;
+margin-right: 30px;
+}
+div a {
+text-decoration: none;
+color: black;
+}
+.div-title{
+font-size: 30px;
+}
+.banner-content{
+max-width: 800px;
+text-align: center;
+margin: 0 auto;
+}
+.banner-title{
+font-size: 2.5rem;
+font-weight: 700;
+}
+.banner-description{
+font-size: 16px;
+}
